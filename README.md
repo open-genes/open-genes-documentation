@@ -1,2 +1,5 @@
-# open-genes-documentation
-Open Genes documentation
+# Документация
+
+[Вики](https://github.com/open-genes/open-genes-documentation/wiki)
+
+> 🌐 Поучаствуйте в переводе документации на другие языки! Напишите в [Telegram](https://t.me/const8ine)
