@@ -1,10 +1,8 @@
-> This is a documentation compiled from inner documentation written by members of a core team and disparate descriptions
+> This is a documentation compiled from inner docs written by members of a core team and some disparate descriptions. It is being translated and tranfered to a new [Project Wiki](https://github.com/open-genes/.github/wiki). 
 
 
-# 👩‍💻 Документация
+> 🌐 **Перевод**<br> Поучаствуйте в переводе документации на другие языки! Напишите в [Telegram](https://t.me/const8ine)
+<br>
 
-## [Перейти в вики](https://github.com/open-genes/open-genes-documentation/wiki)
-
-### 🌐 Перевод
-
-Поучаствуйте в переводе документации на другие языки! Напишите в [Telegram](https://t.me/const8ine)
+#### [👩‍💻 Документация](https://github.com/open-genes/open-genes-documentation/wiki)
+<br>
